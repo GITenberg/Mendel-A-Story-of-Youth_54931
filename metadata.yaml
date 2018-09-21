@@ -1,0 +1,28 @@
+_repo: Mendel-A-Story-of-Youth_54931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cannan, Gilbert
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '2603'
+    url: http://www.gutenberg.org/2009/agents/2603
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
+description: ''
+gutenberg_issued: '2017-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Jews -- England -- London -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: 'Mendel: A Story of Youth'
+url: http://www.gutenberg.org/ebooks/54931
